@@ -1,6 +1,6 @@
 """Small CougarCalc example used in the Lab 7 local pilot."""
 
-SUBTITLE = "Fast answers for Cougar students."
+SUBTITLE = "Quick classroom arithmetic for Cougar students."
 
 
 def add(left, right):
